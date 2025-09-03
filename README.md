@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Nitin Kumar:
 🔭 I’m currently building full-stack apps and experimenting with AI/ML for smarter solutions.<br>👯 I’m looking to collaborate on impactful projects that blend creativity with tech.<br>🌱 Learning how to scale backends like a pro and fine-tune ML models for real-world use.<br>💬 Ask me about React hacks, DSA strategies, or surviving competitive programming contests.<br>⚡ Fun fact: I love breaking my own code just to fix it better the next time.
 
 
